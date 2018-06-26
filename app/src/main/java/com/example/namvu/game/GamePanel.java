@@ -14,6 +14,7 @@ public class GamePanel extends SurfaceView implements SurfaceHolder.Callback
     public static final int HEIGHT = 480;
     private MainThread thread;
     private Background bg;
+    //asdhuas
 
     public GamePanel(Context context)
     {
